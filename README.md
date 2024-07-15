@@ -1,6 +1,6 @@
 # MaryRRR66.github.io
 
-Welcome to my professional repository where I share useful or interesting info about technology, Big Data management, cybersecurity, data analysis, and more. This repository contains some useful scripts, articles, and resources for anyone interested in these fields.
+Welcome to my repository where I share useful or interesting info about technology, Big Data management, cybersecurity, data analysis, and more. This repository contains some useful scripts, articles, and resources for anyone interested in these fields.
 
 ## Contents
 
