@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact Miss MissClick</title>
+    <link rel="stylesheet" href="styles.css">
+    <script src="https://www.google.com/recaptcha/api.js" async defer></script>
+    <script src="script.js" defer></script>
+</head>
+<body>
+    <header>
+        <h1>Miss MissClick's Tech Hub</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="about.html">About Me</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section>
+            <h2>Contact</h2>
+            <form action="mailto:missmissclick@proton.me" method="post" enctype="text/plain" onsubmit="return validateForm()">
+                <label for="name">Name:</label><br>
+                <input type="text" id="name" name="name" required><br>
+                
+                <label for="email">Email:</label><br>
+                <input type="email" id="email" name="email" required><br>
+                
+                <label for="message">Message:</label><br>
+                <textarea id="message" name="message" required></textarea><br>
+                
+                <!-- Google reCAPTCHA -->
+                <div class="g-recaptcha" data-sitekey="6LcekxAqAAAAAG8ootMw05OqvuCagpLxtiwaCi0s"></div><br>
+                
+                <input type="submit" value="Send">
+            </form>
+        </section>
+    </main>
+    <footer>
+        <p>Contact me at <a href="contact.html">Contact Page</a></p>
+        <p>Follow me on <span id="linkedin"></span> and <span id="email"></span></p>
+        <div class="g-recaptcha" data-sitekey="6LcekxAqAAAAAG8ootMw05OqvuCagpLxtiwaCi0s"></div>
+        <p>This site is powered by GitHub Pages</p>
+    </footer>
+    <script>
+        document.getElementById('linkedin').innerHTML = '<a href="https://www.linkedin.com/in/maria-pyznar-b7b785259/">LinkedIn</a>';
+        document.getElementById('email').innerHTML = '<a href="mailto:missmissclick@proton.me">Email</a>';
+    </script>
+</body>
+</html>
+
