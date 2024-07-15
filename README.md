@@ -4,7 +4,11 @@ Welcome to my repository where I share useful or interesting info about technolo
 
 ## Contents
 
+<<<<<<< HEAD
 - **Scripts**: Automate boring stuff with simple scripts.
+=======
+- **Scripts**: automate boring stuff with simple scripts.
+>>>>>>> a22abfbe61c4dfc95d26767691142fa8778b103d
 - **Articles**: Info, thoughts and insights on various tech topics.
 - **Resources**: Links to helpful resources and tools.
 
