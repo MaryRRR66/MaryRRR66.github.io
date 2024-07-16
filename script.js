@@ -1,8 +1,6 @@
-// script.js
 function validateForm() {
-    // Sprawdzenie reCAPTCHA
-    var response = grecaptcha.getResponse();
-    if (response.length === 0) {
+    var recaptcha = document.querySelector('#g-recaptcha-response').value;
+    if (recaptcha === "") {
         alert("Please complete the reCAPTCHA.");
         return false;
     }
