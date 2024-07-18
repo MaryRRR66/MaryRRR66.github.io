@@ -1,0 +1,31 @@
+# Site settings
+title: MissClick's Tech Hub
+email: missmissclick@proton.me
+description: >-
+  Welcome to my tech hub where I share insights on technology, Big Data management,
+  cybersecurity, data analysis, and more.
+
+baseurl: "" # puste, ponieważ jest to główne repozytorium
+url: "https://maryrrr66.github.io" # zmień to na twoje GitHub Pages URL
+
+#twitter_username: your_twitter
+github_username: maryrrr66
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
+
+# Exclude from processing.
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+
