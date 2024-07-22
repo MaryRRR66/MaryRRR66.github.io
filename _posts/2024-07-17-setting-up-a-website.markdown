@@ -7,9 +7,12 @@ categories: advice
 
 ## Why would I want my own cozy piece of internet?
 
-- **Share What You Are Passionate About:** - Because nothing says "I'm cool" like explaining the intricacies of your [Guinness record 'Do not disturb' signs collection][dnd-collection] or [knowledge about shoelaces][shoelace-knowledge] to the entire internet. #NerdFameAchieved
+- **Share What You Are Passionate About:** 
+  - Because nothing says "I'm cool" like explaining the intricacies of your [Guinness record 'Do not disturb' signs collection][dnd-collection] or [knowledge about shoelaces][shoelace-knowledge] to the entire internet. #NerdFameAchieved
+
 [dnd-collection]: https://www.flickr.com/photos/128930963@N05/ "Jean-François Vernetti's 'Do Not Disturb' Signs Collection"
 [shoelace-knowledge]: https://www.fieggen.com/shoelace/ "Ian's Shoelace Site"
+
 - **Organize Your loose ideas into a knowledge base:** - It's like having a second brain online, but one that doesn't forget where you left that thing (??it was here a moment ago).
 - **For the sake of learning how to do it:** Knowledge is power, and power corrupts. So technically, by making a website, you're on your way to becoming an evil overlord. You're welcome.
 - **Show Your Presence Online so People Can Reach Out to You:** A personal website can make you stand out to potential employers and like-minded people.
