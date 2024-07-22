@@ -17,6 +17,7 @@ categories: advice
 ## What (free) options do I have?:
 
 ![Selfie Rubber Duck](assets/images/1Setting%20up%20a%20Website/selfieduck.png)
+
 1. **Social Media Pages (Facebook, Instagram, LinkedIn etc.):** 
    - Easy to set up, but limited in customization.
    - Difficulty: 1/10 - If you can post a selfie, you're already an expert.
