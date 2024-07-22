@@ -77,7 +77,7 @@ categories: advice
    - Difficulty: 9/10 - dreaming in code with a full on wizard beard.
 
 
-### Przypisy:
+### References:
 1. [Guinness World Record for the largest collection of 'Do Not Disturb' signs][guinness-record]
 2. [Ian's Shoelace Site][shoelace-site] - Probably the most comprehensive website about shoelaces you could ever dream of. It's where aglets go to learn their life purpose.
 
