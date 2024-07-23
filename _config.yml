@@ -29,3 +29,6 @@ exclude:
   - vendor/gems/
   - vendor/ruby/
 
+nav:
+  - title: "Contact"
+    url: "/contact/"
