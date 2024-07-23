@@ -6,8 +6,6 @@ description: "Get in touch with MissClick for questions, collaborations, or just
 keywords: "Contact, Email, LinkedIn, GitHub"
 ---
 
-# Contact Me
-
 Feel free to reach out for collaborations, questions, or just to say hi!
 
 ## How to Reach Me
