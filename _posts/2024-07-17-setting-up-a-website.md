@@ -36,7 +36,7 @@ categories: advice
      
      
      
-     <img title="" src="file:///C:/Users/Mary/Documents/Projects/WebDevelopment/MissClick/MaryRRR66.github.io/assets/images/1Setting%20up%20a%20Website/selfieduck.png" alt="" width="260">
+     <img title="" src="/assets/images/1Setting%20up%20a%20Website/selfieduck.png" alt="" width="260">
 
 2. [**Blogger]([Blogger.com - Create a unique and beautiful blog easily.](https://www.blogger.com/about/?bpli=1)):** 
    - Simple, free blogging platform owned by Google.
