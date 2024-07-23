@@ -1,3 +1,10 @@
+---
+layout: post
+title: "Why Choose GitHub Pages and Jekyll?"
+date: 2023-07-22 12:00:00 +0000
+categories: [GitHub Pages, Jekyll]
+---
+
 ## Why Choose GitHub Pages and Jekyll?
 
 GitHub Pages and Jekyll offer several advantages:

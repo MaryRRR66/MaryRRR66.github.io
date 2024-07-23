@@ -42,7 +42,7 @@ However, technical and ethical challenges remain. Standardizing data formats and
 - Xie, J., Hu, K., Zhu, M., & Guo, Y. (2020). *Data-driven analysis of global research trends in bioacoustics and ecoacoustics from 1991 to 2018*. Ecological Informatics, 57, 101068–101068.
 - FrogID. (2024). *FrogID report 2022-23*. [FrogID Report](https://media.australian.museum/media/dd/documents/FrogIDReport-2023-A4insertV9.78106a7.pdf)
 - Leonard, P. (2022, June 28). *AI-powered BirdNET app makes citizen science easier*. Cornell Chronicle. [Cornell Chronicle](https://news.cornell.edu/stories/2022/06/ai-powered-birdnet-app-makes-citizen-science-easier)
-- Barclay, L. (2015, March 24). *Leah Barclay | RIVER LISTENING*. [Leah Barclay](https://leahbarclay.com/portfolio_page/river-listening/)
+- Barclay, L. (2015, March 24). *Leah Barclay RIVER LISTENING*. [Leah Barclay](https://leahbarclay.com/portfolio_page/river-listening/)
 - Fishsounds. (2024). *FishSounds*. [FishSounds](http://www.fishsounds.net)
 - OPUS. (2022, May 18). *OPUS - The Open Portal to Underwater Soundscapes*. [OPUS](https://opus.aq/)
 - Whale FM. (2012, September 20). *Whale FM*. [Whale FM](https://whalefm.wordpress.com/)
