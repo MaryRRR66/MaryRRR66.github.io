@@ -23,21 +23,24 @@ categories: advice
 
 1. **Social Media Pages ([Facebook](https://www.facebook.com/), [Instagram](https://www.instagram.com/), [LinkedIn](https://www.linkedin.com/) etc.):** 
    - Easy to set up, but limited in customization.
-   - Difficulty: <mark>1/10</mark> - If you can post a selfie, you're already an expert.
+   
+   Difficulty: <mark>1/10</mark> - If you can post a selfie, you're already an expert.
 
    <img src="/assets/images/1Setting%20up%20a%20Website/selfieduck.png" alt="Selfie Duck" style="width: 50%; margin: 20px 0;">
 
 2. [**Blogger**](https://www.blogger.com/about/?bpli=1): 
    - Simple, free blogging platform owned by Google.
    - Choose this if you want a straightforward blogging platform.
-   - Difficulty: <mark>1/10</mark> - If you can send an email, you can use Blogger.
+   
+   Difficulty: <mark>1/10</mark> - If you can send an email, you can use Blogger.
 
    <img src="/assets/images/1Setting%20up%20a%20Website/emailduck.png" alt="Email Duck" style="width: 50%; margin: 20px 0;">
 
 3. **[Medium](https://blog.hubspot.com/marketing/how-to-use-medium):**
    - Great for writers, but your content is mixed with others.
    - Bookclub where everyone's reading aloud at once.
-   - Difficulty: <mark>2/10</mark>.
+   
+   Difficulty: <mark>2/10</mark>.
 
    <img src="/assets/images/1Setting%20up%20a%20Website/writerduck.png" alt="Writer Duck" style="width: 50%; margin: 20px 0;">
 
@@ -45,14 +48,16 @@ categories: advice
    - Free website builder with drag-and-drop functionality, includes ads.
    - Playing with digital Legos, but some blocks are made of ads.
    - Choose this if you prefer visual design over coding.
-   - Difficulty: <mark>2/10</mark>
+   
+   Difficulty: <mark>2/10</mark>
 
    <img src="/assets/images/1Setting%20up%20a%20Website/duck_with_blocks.png" alt="Duck with Blocks" style="width: 50%; margin: 20px 0;">
 
 5. **[WordPress](https://wordpress.com/):** 
    - Free hosting with basic themes, but includes ads.
    - Choose this if you want a balance between ease of use and customization.
-   - Difficulty: <mark>3/10</mark>.
+   
+   Difficulty: <mark>3/10</mark>.
 
    <img src="/assets/images/1Setting%20up%20a%20Website/blogduckwordpress.png" alt="Blog Duck WordPress" style="width: 50%; margin: 20px 0;">
 
@@ -60,25 +65,47 @@ categories: advice
    - Free hosting for static websites directly from your GitHub repository.
    - Having a magic notebook where what you write instantly appears on the internet.
    - Choose this if you want simple hosting and are fairly comfortable with HTML/CSS/JavaScript.
-   - Difficulty: <mark>6/10</mark> - You'll feel like a tech wizard, but without the long beard.
+   
+   Difficulty: <mark>6/10</mark> - You'll feel like a tech wizard, but without the long beard.
 
    <img src="/assets/images/1Setting%20up%20a%20Website/githubpages.png" alt="GitHub Pages" style="width: 50%; margin: 20px 0;">
 
 7. **[GitHub Pages](https://pages.github.com/) + [Jekyll](https://jekyllrb.com/):**
    - Free hosting, complete control. Learning to use a dishwasher instead of washing by hand.
-   - Choose this if you want a gentle introduction into web development as you create your site.
+   - Choose this if you want a gentle introduction into web development as you create your site (what I did).
    - Perfect for impressing that cute dev at the coffee shop.
-   - Difficulty: <mark>7/10</mark> - you'll need to understand Liquid (fairly easy templating language, that eventually makes creating the website quicker ~ (<mark>4.5/10</mark>)).
+   
+   Difficulty: <mark>7/10</mark> - you'll need to understand Liquid (fairly easy templating language, that eventually makes creating the website quicker ~ (<mark>4.5/10</mark>)).
 
    <img src="/assets/images/1Setting%20up%20a%20Website/dishwasherduck_githubpagesjekyll.png" alt="Dishwasher Duck GitHub Pages Jekyll" style="width: 50%; margin: 20px 0;">
 
 8. **Self-hosted Solution (e.g., [Oracle Cloud Free Tier](https://www.oracle.com/cloud/free/), [Google Cloud Free Tier](https://cloud.google.com/free/)):**
-   - Free options with limitations, that require advanced technical know-how.
-   - One-man band experience; being the captain, engineer, and janitor of your own spaceship.
-   - Choose this if you want full control and are ready for a serious tech adventure. You nerdy control freak.
-   - Difficulty: <mark>9/10</mark> - dreaming in code with a full on wizard beard.
+   - Host your website on a free virtual machine in the cloud. Free options with limitations, that require advanced technical know-how.
+   - It's like having your own digital apartment, but the landlord (cloud provider) pays the bills.
+   
+   Difficulty: <mark>8/10</mark>
 
-   <img src="/assets/images/1Setting%20up%20a%20Website/wizard_duck.png" alt="Wizard Duck" style="width: 50%; margin: 20px 0;">
+<img src="/assets/images/1Setting%20up%20a%20Website/cloudwizardduck.png" alt="Cloud Wizard Duck" style="width: 50%; margin: 20px 0;">
+
+9. **Custom Web Server and Framework**
+
+- Build your own server and framework from scratch using low-level languages.
+- Deciding to invent the wheel before building a spaceship. Being its captain, engineer, and janitor. #OneManBandExperience
+- Choose this if you want full control and have some serious programming skills, you nerdy control freak.
+
+Difficulty: <mark>9/10</mark> - dreaming in code with a full on wizard beard.
+
+<img src="/assets/images/1Setting%20up%20a%20Website/wizard_duck.png" alt="Wizard Duck" style="width: 50%; margin: 20px 0;">
+
+10. **Quantum Web Development**
+
+- Create a website that exists in quantum superposition, viewable across multiple dimensions.
+- Simultaneously everywhere and nowhere.
+- Choose this if you've mastered classical web development and want to break the laws of physics.
+
+Difficulty: <mark>10/10</mark>
+
+<img src="/assets/images/1Setting%20up%20a%20Website/quantumduck.png" alt="Quantum Duck" style="width: 50%; margin: 20px 0;">
 
 ### References:
 
